@@ -5,7 +5,6 @@ int main()
 
     string s;
     getline(cin,s);
-    // int t = s.find("dtdfhf");
 
     while (s.find("EGYPT")!=-1)
     {
